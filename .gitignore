@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+env/
+build/
+dist/
+
+# Node
+node_modules/
+
+# Secrets & local config
+.env
+.env.local
+*.key
+*.pem
+*.pfx
+
+# App runtime / generated
+demo.db
+*.sqlite
+tests/results.json
+tests/report.html
+
+# OS
+.DS_Store
+Thumbs.db

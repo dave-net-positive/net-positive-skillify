@@ -1,0 +1,10 @@
+{
+  "name": "net-positive-skillify",
+  "displayName": "Net Positive Skillify",
+  "version": "1.0.0",
+  "description": "Skill lifecycle tooling for Net Positive: create skills that are efficient by construction, review them for token cost and code-over-model opportunities with verified findings and Net Positive-branded reports, and apply approved changes surgically.",
+  "author": {
+    "name": "David Wilbourn"
+  },
+  "keywords": ["skills", "efficiency", "governance", "review", "scaffolding", "net-positive"]
+}

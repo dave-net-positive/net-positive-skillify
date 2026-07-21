@@ -1,0 +1,9 @@
+{
+  "name": "Net Positive",
+  "accent": "#e0783a",
+  "accent_dark": "#b85f28",
+  "logo": "net-positive-logo.svg",
+  "footer": "Generated with the assistance of AI.",
+  "kind_label": "Net Positive Skillify Review (verified)",
+  "extra_css": "@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Plus+Jakarta+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');body{font-family:'Plus Jakarta Sans',system-ui,sans-serif}h1,h2,.finding-head,summary,th{font-family:'Barlow Condensed','Arial Narrow',sans-serif}code{font-family:'JetBrains Mono','Courier New',monospace}"
+}

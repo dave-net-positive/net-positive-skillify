@@ -1,0 +1,14 @@
+{
+  "name": "example-report-renderer",
+  "display_name": "Example Report Renderer",
+  "description": "Renders review results into branded documents from one canonical results.json. Use when the user asks to render, export, or publish review results. Triggers: 'render the results', 'export the review', 'publish the report'.",
+  "compatibility": "Requires Python 3 (standard library).",
+  "version": "1.0",
+  "references": [
+    { "file": "output-spec.md", "title": "Output specification", "long": true },
+    { "file": "judgement-rubric.md", "title": "Judgement rubric", "long": false }
+  ],
+  "scripts": [
+    { "file": "render_outputs.py", "purpose": "Fans results.json out to every output format deterministically." }
+  ]
+}
